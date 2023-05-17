@@ -1,0 +1,10 @@
+1>Designing
+2>Dynamic-Data
+3>Button +,- work
+4>Insert Multipal CartItem in Cart
+5>Data Comming from Product-Array using Props
+6>Button +,- work
+7>Delete Button Functionality
+8>Adding NavBar
+9>Dynamic cart
+10>Total Price
